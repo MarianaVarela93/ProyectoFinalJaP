@@ -1,0 +1,96 @@
+body{
+	background-color: rgba(0,0,0,0.8); ;
+  position: relative;
+}
+#nav{
+  background-color: rgba(0,0,0,0.8);
+}
+#mariana{
+  font-size: 1.5em;
+}
+#menu{
+  font-size: 1.0em;
+  align-content: center;
+  align-items: center;
+  margin: auto;
+}
+#gitln{
+  font-size: 1.5em;
+}
+#principal{
+  margin-top:40px;
+  margin-bottom: 40px;
+}
+h2{
+  text-align: center;
+}
+#grande{
+  width: 1347px;
+  height: 750px;
+}
+#carousel{
+  margin-left:50px;
+  margin-right:10px;
+  height: 500px
+}
+#izq{
+  float: left;
+  padding:10px;  
+  width:600px; 
+  margin-top:150px;    
+  margin-right:50px;
+  margin-left:50px;
+}
+#derecho{
+  float: right;
+  padding:10px; 
+  width:630px; 
+  margin-top:50px;    
+  margin-right:10px; 
+}
+.sep{
+  max-width: 80px;
+  border: 2px solid ;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+#experiencia{
+  margin-top:40px;
+  margin-bottom: 40px;
+}
+#contacto{
+  text-align: center;
+}
+.btn-block{
+  background: black;
+  padding: 10px 0;
+  font-size: 20px;
+  border-radius: 0;
+  color: #fff;
+  border: 3px solid black;
+}
+#block-footer {
+  text-align: center;
+  padding: 15px 0;
+  margin-bottom: 10px;
+  background-color: black;
+}
+#p{
+  font-size: 0.8em;
+  margin: 0 auto;
+  padding: 30px ;
+}
+#iconos{
+  font-size: 1.8em;
+}
+
+
+
+
+
+
+
+
+
+
+
